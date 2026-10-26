@@ -1,6 +1,6 @@
 {
   "dealership": "Campbell River Hyundai",
-  "generated_at": "2026-10-25T23:03:24",
+  "generated_at": "2026-10-25T23:09:05",
   "vehicle_count": 101,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -442,7 +442,7 @@
       "make": "Hyundai",
       "model": "Elantra Hybrid",
       "condition": "new",
-      "price": 33398.0,
+      "price": 34398.0,
       "price_currency": "CAD"
     },
     {
@@ -783,7 +783,7 @@
       "make": "Hyundai",
       "model": "Tucson Plug-In Hybrid",
       "condition": "new",
-      "price": 54998.0,
+      "price": 55998.0,
       "price_currency": "CAD"
     },
     {
@@ -827,7 +827,7 @@
       "make": "Hyundai",
       "model": "Tucson",
       "condition": "new",
-      "price": 40898.0,
+      "price": 41898.0,
       "price_currency": "CAD"
     },
     {
@@ -838,7 +838,7 @@
       "make": "Hyundai",
       "model": "Tucson",
       "condition": "new",
-      "price": 40898.0,
+      "price": 41898.0,
       "price_currency": "CAD"
     },
     {
@@ -849,7 +849,7 @@
       "make": "Hyundai",
       "model": "Tucson",
       "condition": "new",
-      "price": 40898.0,
+      "price": 41898.0,
       "price_currency": "CAD"
     },
     {
@@ -860,7 +860,7 @@
       "make": "Hyundai",
       "model": "Tucson",
       "condition": "new",
-      "price": 40898.0,
+      "price": 41898.0,
       "price_currency": "CAD"
     },
     {
@@ -904,7 +904,7 @@
       "make": "Hyundai",
       "model": "IONIQ 5",
       "condition": "new",
-      "price": 59298.0,
+      "price": 60298.0,
       "price_currency": "CAD"
     },
     {
@@ -1014,7 +1014,7 @@
       "make": "Hyundai",
       "model": "Kona",
       "condition": "new",
-      "price": 36098.0,
+      "price": 37098.0,
       "price_currency": "CAD"
     },
     {
@@ -1025,7 +1025,7 @@
       "make": "Hyundai",
       "model": "Kona",
       "condition": "new",
-      "price": 36098.0,
+      "price": 37098.0,
       "price_currency": "CAD"
     },
     {
@@ -1047,18 +1047,18 @@
       "make": "Hyundai",
       "model": "Palisade Hybrid",
       "condition": "new",
-      "price": 70498.0,
+      "price": 71498.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Hyundai Palisade Hybrid ",
+      "name": "2027 Hyundai Palisade Hybrid Ultimate Calligraphy Night",
       "vin": "KM8RMESA2VU142067",
       "url": "https://willyml1979-dotcom.github.io/campbell-river-hyundai-mirror/new/7e2b89569390.html",
       "year": 2027,
       "make": "Hyundai",
       "model": "Palisade Hybrid",
       "condition": "new",
-      "price": 70498.0,
+      "price": 71498.0,
       "price_currency": "CAD"
     },
     {
@@ -1069,7 +1069,7 @@
       "make": "Hyundai",
       "model": "Palisade Hybrid",
       "condition": "new",
-      "price": 68498.0,
+      "price": 69498.0,
       "price_currency": "CAD"
     },
     {
@@ -1091,7 +1091,7 @@
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
       "condition": "new",
-      "price": 51048.0,
+      "price": 52048.0,
       "price_currency": "CAD"
     },
     {
@@ -1102,7 +1102,7 @@
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
       "condition": "new",
-      "price": 59148.0,
+      "price": 60148.0,
       "price_currency": "CAD"
     },
     {
@@ -1113,7 +1113,7 @@
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
       "condition": "new",
-      "price": 59148.0,
+      "price": 60148.0,
       "price_currency": "CAD"
     }
   ]
