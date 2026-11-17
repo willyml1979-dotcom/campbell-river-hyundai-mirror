@@ -1,19 +1,19 @@
 {
   "dealership": "Campbell River Hyundai",
-  "generated_at": "2026-10-26T07:54:36",
+  "generated_at": "2026-11-17T08:44:46",
   "vehicle_count": 101,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
     {
-      "name": "2015 Subaru Forester ",
-      "vin": "JF2SJCHC3FG581212",
-      "url": "https://willyml1979-dotcom.github.io/campbell-river-hyundai-mirror/used/9ce0865b0a48.html",
-      "year": 2015,
-      "make": "Subaru",
-      "model": "Forester",
+      "name": "2016 Honda CR-V Touring",
+      "vin": "5J6RM4H97GL806636",
+      "url": "https://willyml1979-dotcom.github.io/campbell-river-hyundai-mirror/used/551a8b5ba32e.html",
+      "year": 2016,
+      "make": "Honda",
+      "model": "CR-V",
       "condition": "used",
-      "price": 15555.0,
+      "price": 15998.0,
       "price_currency": "CAD"
     },
     {
@@ -39,6 +39,28 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2017 RAM 1500 ST",
+      "vin": "1C6RR7KT6HS849702",
+      "url": "https://willyml1979-dotcom.github.io/campbell-river-hyundai-mirror/used/397e5e73d7ac.html",
+      "year": 2017,
+      "make": "RAM",
+      "model": "1500",
+      "condition": "used",
+      "price": 24467.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2018 Hyundai Santa Fe XL Ultimate",
+      "vin": "KM8SNDHFXJU282051",
+      "url": "https://willyml1979-dotcom.github.io/campbell-river-hyundai-mirror/used/1d1bd379e7bf.html",
+      "year": 2018,
+      "make": "Hyundai",
+      "model": "Santa Fe",
+      "condition": "used",
+      "price": 15998.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2018 Hyundai Tucson SE",
       "vin": "KM8J3CA4XJU620312",
       "url": "https://willyml1979-dotcom.github.io/campbell-river-hyundai-mirror/used/a40f4cf6c0dd.html",
@@ -50,14 +72,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2019 Dodge Grand Caravan Passenger Van GT",
-      "vin": "2C4RDGEG5KR515868",
-      "url": "https://willyml1979-dotcom.github.io/campbell-river-hyundai-mirror/used/e6da5af2b4d4.html",
-      "year": 2019,
-      "make": "Dodge",
-      "model": "Grand Caravan",
+      "name": "2018 Hyundai Tucson Ultimate",
+      "vin": "KM8J3CA20JU650918",
+      "url": "https://willyml1979-dotcom.github.io/campbell-river-hyundai-mirror/used/723682a40bcf.html",
+      "year": 2018,
+      "make": "Hyundai",
+      "model": "Tucson",
       "condition": "used",
-      "price": 18498.0,
+      "price": 16961.0,
       "price_currency": "CAD"
     },
     {
@@ -83,36 +105,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2019 Kia Sportage LX",
-      "vin": "KNDPM3AC4K7612399",
-      "url": "https://willyml1979-dotcom.github.io/campbell-river-hyundai-mirror/used/2ab4cf859d6c.html",
-      "year": 2019,
-      "make": "Kia",
-      "model": "Sportage",
-      "condition": "used",
-      "price": 16792.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Nissan Pathfinder ",
+      "name": "2019 Nissan Pathfinder SV Tech",
       "vin": "5N1DR2MM8KC593023",
       "url": "https://willyml1979-dotcom.github.io/campbell-river-hyundai-mirror/used/1f464c0ca0a7.html",
       "year": 2019,
       "make": "Nissan",
       "model": "Pathfinder",
       "condition": "used",
-      "price": 23998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2020 Hyundai Elantra Preferred W/Sun & Safety Package",
-      "vin": "KMHD84LF3LU945664",
-      "url": "https://willyml1979-dotcom.github.io/campbell-river-hyundai-mirror/used/d9429d519ccd.html",
-      "year": 2020,
-      "make": "Hyundai",
-      "model": "Elantra",
-      "condition": "used",
-      "price": 11353.0,
+      "price": 22287.0,
       "price_currency": "CAD"
     },
     {
@@ -134,7 +134,7 @@
       "make": "Hyundai",
       "model": "Kona",
       "condition": "used",
-      "price": 14514.0,
+      "price": 16269.0,
       "price_currency": "CAD"
     },
     {
@@ -145,18 +145,18 @@
       "make": "Hyundai",
       "model": "Palisade",
       "condition": "used",
-      "price": 28998.0,
+      "price": 25671.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2020 Hyundai Santa Fe ",
+      "name": "2020 Hyundai Santa Fe Preferred",
       "vin": "5NMS3CAD0LH282695",
       "url": "https://willyml1979-dotcom.github.io/campbell-river-hyundai-mirror/used/7ce0b4380296.html",
       "year": 2020,
       "make": "Hyundai",
       "model": "Santa Fe",
       "condition": "used",
-      "price": 17498.0,
+      "price": 16804.0,
       "price_currency": "CAD"
     },
     {
@@ -167,7 +167,7 @@
       "make": "Ford",
       "model": "Escape",
       "condition": "used",
-      "price": 20793.0,
+      "price": 19997.0,
       "price_currency": "CAD"
     },
     {
@@ -178,7 +178,7 @@
       "make": "Ford",
       "model": "Explorer",
       "condition": "used",
-      "price": 33998.0,
+      "price": 35314.0,
       "price_currency": "CAD"
     },
     {
@@ -193,25 +193,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Kia Seltos ",
+      "name": "2021 Kia Seltos LX",
       "vin": "KNDEPCAA9M7081927",
       "url": "https://willyml1979-dotcom.github.io/campbell-river-hyundai-mirror/used/d368477c65f7.html",
       "year": 2021,
       "make": "Kia",
       "model": "Seltos",
       "condition": "used",
-      "price": 19998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Nissan Rogue Platinum - Heads up display! Leather seats!",
-      "vin": "JN8AT3DD5MW310579",
-      "url": "https://willyml1979-dotcom.github.io/campbell-river-hyundai-mirror/used/21854daafb29.html",
-      "year": 2021,
-      "make": "Nissan",
-      "model": "Rogue",
-      "condition": "used",
-      "price": 21998.0,
+      "price": 20723.0,
       "price_currency": "CAD"
     },
     {
@@ -222,7 +211,18 @@
       "make": "Nissan",
       "model": "Sentra",
       "condition": "used",
-      "price": 17198.0,
+      "price": 16998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2022 Chevrolet Silverado 3500 High Country",
+      "vin": "1GC4YVEY8NF300802",
+      "url": "https://willyml1979-dotcom.github.io/campbell-river-hyundai-mirror/used/7115b66380a6.html",
+      "year": 2022,
+      "make": "Chevrolet",
+      "model": "Silverado 3500",
+      "condition": "used",
+      "price": 76998.0,
       "price_currency": "CAD"
     },
     {
@@ -233,29 +233,7 @@
       "make": "Hyundai",
       "model": "Kona",
       "condition": "used",
-      "price": 19498.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Hyundai Tucson Preferred",
-      "vin": "KM8JBCAE7NU150371",
-      "url": "https://willyml1979-dotcom.github.io/campbell-river-hyundai-mirror/used/99709f315c2f.html",
-      "year": 2022,
-      "make": "Hyundai",
-      "model": "Tucson",
-      "condition": "used",
-      "price": 24888.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Nissan Qashqai S",
-      "vin": "JN1BJ1AW9NW479265",
-      "url": "https://willyml1979-dotcom.github.io/campbell-river-hyundai-mirror/used/1eb1c911bde3.html",
-      "year": 2022,
-      "make": "Nissan",
-      "model": "Qashqai",
-      "condition": "used",
-      "price": 20498.0,
+      "price": 17998.0,
       "price_currency": "CAD"
     },
     {
@@ -277,7 +255,18 @@
       "make": "Hyundai",
       "model": "Elantra Hybrid",
       "condition": "used",
-      "price": 27498.0,
+      "price": 27277.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023 Hyundai Santa Fe Hybrid Luxury",
+      "vin": "KM8S5DA16PU065989",
+      "url": "https://willyml1979-dotcom.github.io/campbell-river-hyundai-mirror/used/020859f7188d.html",
+      "year": 2023,
+      "make": "Hyundai",
+      "model": "Santa Fe Hybrid",
+      "condition": "used",
+      "price": 34743.0,
       "price_currency": "CAD"
     },
     {
@@ -288,7 +277,7 @@
       "make": "Hyundai",
       "model": "Venue",
       "condition": "used",
-      "price": 19798.0,
+      "price": 20054.0,
       "price_currency": "CAD"
     },
     {
@@ -376,7 +365,7 @@
       "make": "Hyundai",
       "model": "Elantra",
       "condition": "used",
-      "price": 21498.0,
+      "price": 20298.0,
       "price_currency": "CAD"
     },
     {
@@ -387,18 +376,7 @@
       "make": "Hyundai",
       "model": "Kona Electric",
       "condition": "used",
-      "price": 34998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 GMC Sierra 3500HD SLE",
-      "vin": "1GT4UTEY8SF261673",
-      "url": "https://willyml1979-dotcom.github.io/campbell-river-hyundai-mirror/used/744bf5f8cdd8.html",
-      "year": 2025,
-      "make": "GMC",
-      "model": "Sierra 3500HD",
-      "condition": "used",
-      "price": 78997.0,
+      "price": 34798.0,
       "price_currency": "CAD"
     },
     {
@@ -409,18 +387,40 @@
       "make": "Hyundai",
       "model": "Elantra",
       "condition": "used",
-      "price": 23498.0,
+      "price": 23560.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Jeep Wrangler Rubicon",
-      "vin": "1C4PJXFG2SW640476",
-      "url": "https://willyml1979-dotcom.github.io/campbell-river-hyundai-mirror/used/03bf59ec7fb8.html",
+      "name": "2025 Hyundai Tucson Hybrid N Line",
+      "vin": "KM8JCDD19SU247806",
+      "url": "https://willyml1979-dotcom.github.io/campbell-river-hyundai-mirror/used/69798bfc0f6c.html",
       "year": 2025,
-      "make": "Jeep",
-      "model": "Wrangler",
+      "make": "Hyundai",
+      "model": "Tucson Hybrid",
       "condition": "used",
-      "price": 57592.0,
+      "price": 40498.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Hyundai Tucson Plug-In Hybrid Ultimate",
+      "vin": "KM8JDDD23SU388473",
+      "url": "https://willyml1979-dotcom.github.io/campbell-river-hyundai-mirror/used/ad1a8f22b588.html",
+      "year": 2025,
+      "make": "Hyundai",
+      "model": "Tucson Plug-In Hybrid",
+      "condition": "used",
+      "price": 48998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Toyota Prius Plug-In Hybrid ",
+      "vin": "JTDACACU3S3052627",
+      "url": "https://willyml1979-dotcom.github.io/campbell-river-hyundai-mirror/used/8a8f605dde23.html",
+      "year": 2025,
+      "make": "Toyota",
+      "model": "Prius Plug-In Hybrid",
+      "condition": "used",
+      "price": 42298.0,
       "price_currency": "CAD"
     },
     {
@@ -431,7 +431,7 @@
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
       "condition": "used",
-      "price": 43799.0,
+      "price": 42598.0,
       "price_currency": "CAD"
     },
     {
