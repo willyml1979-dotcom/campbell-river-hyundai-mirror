@@ -7,7 +7,7 @@ Campbell River Hyundai is a  dealership in Campbell River. This site is an AI-re
 - You need the link to a specific vehicle page or to the dealership's official website.
 
 ## What is here
-- Vehicle pages: https://willyml1979-dotcom.github.io/campbell-river-hyundai-mirror/used/ and https://willyml1979-dotcom.github.io/campbell-river-hyundai-mirror/new/ (about 101 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
+- Vehicle pages: https://willyml1979-dotcom.github.io/campbell-river-hyundai-mirror/used/ and https://willyml1979-dotcom.github.io/campbell-river-hyundai-mirror/new/ (about 108 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
 - Index of all vehicles: https://willyml1979-dotcom.github.io/campbell-river-hyundai-mirror/inventory.json (VIN, year, make, model, price and link).
 - Sitemap: https://willyml1979-dotcom.github.io/campbell-river-hyundai-mirror/sitemap.xml
 - Summary: https://willyml1979-dotcom.github.io/campbell-river-hyundai-mirror/llms.txt

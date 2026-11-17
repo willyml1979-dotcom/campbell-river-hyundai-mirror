@@ -1,7 +1,7 @@
 {
   "dealership": "Campbell River Hyundai",
-  "generated_at": "2026-11-17T08:44:46",
-  "vehicle_count": 101,
+  "generated_at": "2026-11-17T09:07:25",
+  "vehicle_count": 108,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -435,17 +435,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai Elantra Hybrid ",
-      "vin": "KMHLN4DJ2TU225439",
-      "url": "https://willyml1979-dotcom.github.io/campbell-river-hyundai-mirror/new/5447b78ddfe3.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Elantra Hybrid",
-      "condition": "new",
-      "price": 34398.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Hyundai Elantra Preferred",
       "vin": "KMHLM4DG1TU143385",
       "url": "https://willyml1979-dotcom.github.io/campbell-river-hyundai-mirror/new/96a64bdd489f.html",
@@ -453,7 +442,7 @@
       "make": "Hyundai",
       "model": "Elantra",
       "condition": "new",
-      "price": 25949.0,
+      "price": 26949.0,
       "price_currency": "CAD"
     },
     {
@@ -464,29 +453,29 @@
       "make": "Hyundai",
       "model": "Elantra",
       "condition": "new",
-      "price": 25949.0,
+      "price": 26949.0,
       "price_currency": "CAD"
     },
     {
       "name": "2026 Hyundai Elantra Preferred",
-      "vin": "KMHLM4DG9TU140170",
-      "url": "https://willyml1979-dotcom.github.io/campbell-river-hyundai-mirror/new/db2d7c1c9862.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Elantra",
-      "condition": "new",
-      "price": 25949.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Elantra ",
       "vin": "KMHLM4DGXTU138962",
       "url": "https://willyml1979-dotcom.github.io/campbell-river-hyundai-mirror/new/35100501ab2e.html",
       "year": 2026,
       "make": "Hyundai",
       "model": "Elantra",
       "condition": "new",
-      "price": 28298.0,
+      "price": 29298.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Hyundai Elantra N-Line Ultimate",
+      "vin": "KMHLR4DF7TU308137",
+      "url": "https://willyml1979-dotcom.github.io/campbell-river-hyundai-mirror/new/3c5bf9effd2d.html",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Elantra",
+      "condition": "new",
+      "price": 34648.0,
       "price_currency": "CAD"
     },
     {
@@ -508,7 +497,7 @@
       "make": "Hyundai",
       "model": "Kona",
       "condition": "new",
-      "price": 37749.0,
+      "price": 38749.0,
       "price_currency": "CAD"
     },
     {
@@ -678,17 +667,6 @@
     },
     {
       "name": "2026 Hyundai Tucson Hybrid Ultimate",
-      "vin": "KM8JCDD11TU452649",
-      "url": "https://willyml1979-dotcom.github.io/campbell-river-hyundai-mirror/new/e5d8c3d5e8bd.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Tucson Hybrid",
-      "condition": "new",
-      "price": 50099.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Tucson Hybrid Ultimate",
       "vin": "KM8JCDD1XTU452620",
       "url": "https://willyml1979-dotcom.github.io/campbell-river-hyundai-mirror/new/27ea65781ccb.html",
       "year": 2026,
@@ -702,28 +680,6 @@
       "name": "2026 Hyundai Tucson Hybrid Ultimate",
       "vin": "KM8JCDD17TU442546",
       "url": "https://willyml1979-dotcom.github.io/campbell-river-hyundai-mirror/new/b781b17596c2.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Tucson Hybrid",
-      "condition": "new",
-      "price": 50099.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Tucson Hybrid Ultimate",
-      "vin": "KM8JCDD17TU423219",
-      "url": "https://willyml1979-dotcom.github.io/campbell-river-hyundai-mirror/new/33d68f43b1be.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Tucson Hybrid",
-      "condition": "new",
-      "price": 50099.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Tucson Hybrid Ultimate",
-      "vin": "KM8JCDD11TU424026",
-      "url": "https://willyml1979-dotcom.github.io/campbell-river-hyundai-mirror/new/717ffb45e61e.html",
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson Hybrid",
@@ -776,25 +732,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai Tucson Plug-In Hybrid ",
-      "vin": "KM8JDDD29TU535350",
-      "url": "https://willyml1979-dotcom.github.io/campbell-river-hyundai-mirror/new/0583d492bc20.html",
+      "name": "2026 Hyundai Tucson Hybrid N Line",
+      "vin": "KM8JCDD15TU551569",
+      "url": "https://willyml1979-dotcom.github.io/campbell-river-hyundai-mirror/new/2d05274085ee.html",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Plug-In Hybrid",
+      "model": "Tucson Hybrid",
       "condition": "new",
-      "price": 55998.0,
+      "price": 46748.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai Tucson Plug-In Hybrid ",
-      "vin": "KM8JDDD22TU547095",
-      "url": "https://willyml1979-dotcom.github.io/campbell-river-hyundai-mirror/new/e5f98c714fa8.html",
+      "name": "2026 Hyundai Tucson Hybrid Ultimate",
+      "vin": "KM8JCDD12TU540609",
+      "url": "https://willyml1979-dotcom.github.io/campbell-river-hyundai-mirror/new/abd54d3e11c9.html",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Plug-In Hybrid",
+      "model": "Tucson Hybrid",
       "condition": "new",
-      "price": 55648.0,
+      "price": 50148.0,
       "price_currency": "CAD"
     },
     {
@@ -871,11 +827,11 @@
       "make": "Hyundai",
       "model": "Venue",
       "condition": "new",
-      "price": 23348.0,
+      "price": 24348.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai Venue ",
+      "name": "2026 Hyundai Venue Preferred",
       "vin": "KMHRC8A31TU505138",
       "url": "https://willyml1979-dotcom.github.io/campbell-river-hyundai-mirror/new/54e85665fd69.html",
       "year": 2026,
@@ -886,7 +842,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai Venue ",
+      "name": "2026 Hyundai Venue Essential",
       "vin": "KMHRB8A39TU504578",
       "url": "https://willyml1979-dotcom.github.io/campbell-river-hyundai-mirror/new/679f7ebdb110.html",
       "year": 2026,
@@ -908,9 +864,20 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Hyundai IONIQ 5 ",
+      "name": "2027 Hyundai IONIQ 5 Ultimate",
       "vin": "KM8KRDDC2VU428335",
       "url": "https://willyml1979-dotcom.github.io/campbell-river-hyundai-mirror/new/bc5819f8cbea.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "IONIQ 5",
+      "condition": "new",
+      "price": 66298.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Hyundai IONIQ 5 Ultimate",
+      "vin": "KM8KRDDC5VU428748",
+      "url": "https://willyml1979-dotcom.github.io/campbell-river-hyundai-mirror/new/ae06ef3bd2a6.html",
       "year": 2027,
       "make": "Hyundai",
       "model": "IONIQ 5",
@@ -926,11 +893,11 @@
       "make": "Hyundai",
       "model": "Kona Electric",
       "condition": "new",
-      "price": 45698.0,
+      "price": 46698.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Hyundai Kona Electric ",
+      "name": "2027 Hyundai Kona Electric Preferred",
       "vin": "KM8HD3A60VU050081",
       "url": "https://willyml1979-dotcom.github.io/campbell-river-hyundai-mirror/new/90d0cd60292b.html",
       "year": 2027,
@@ -941,7 +908,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Hyundai Kona Electric ",
+      "name": "2027 Hyundai Kona Electric Preferred",
       "vin": "KM8HC3A65VU050094",
       "url": "https://willyml1979-dotcom.github.io/campbell-river-hyundai-mirror/new/4dce3eb40fb0.html",
       "year": 2027,
@@ -949,6 +916,50 @@
       "model": "Kona Electric",
       "condition": "new",
       "price": 46698.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Hyundai Kona Electric Preferred",
+      "vin": "KM8HE3A69VU051128",
+      "url": "https://willyml1979-dotcom.github.io/campbell-river-hyundai-mirror/new/a119fd33f4f0.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Kona Electric",
+      "condition": "new",
+      "price": 51498.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Hyundai Kona Electric Preferred",
+      "vin": "KM8HD3A66VU050909",
+      "url": "https://willyml1979-dotcom.github.io/campbell-river-hyundai-mirror/new/f1b54f6d2fe5.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Kona Electric",
+      "condition": "new",
+      "price": 48945.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Hyundai Kona Electric Preferred",
+      "vin": "KM8HE3A63VU051125",
+      "url": "https://willyml1979-dotcom.github.io/campbell-river-hyundai-mirror/new/c03445572af8.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Kona Electric",
+      "condition": "new",
+      "price": 51498.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Hyundai Kona Electric Preferred",
+      "vin": "KM8HE3A61VU051687",
+      "url": "https://willyml1979-dotcom.github.io/campbell-river-hyundai-mirror/new/1d086c6ab2ad.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Kona Electric",
+      "condition": "new",
+      "price": 51498.0,
       "price_currency": "CAD"
     },
     {
@@ -981,7 +992,7 @@
       "make": "Hyundai",
       "model": "Kona",
       "condition": "new",
-      "price": 31148.0,
+      "price": 32148.0,
       "price_currency": "CAD"
     },
     {
@@ -992,7 +1003,7 @@
       "make": "Hyundai",
       "model": "Kona",
       "condition": "new",
-      "price": 33648.0,
+      "price": 34648.0,
       "price_currency": "CAD"
     },
     {
@@ -1003,7 +1014,7 @@
       "make": "Hyundai",
       "model": "Kona",
       "condition": "new",
-      "price": 33648.0,
+      "price": 34648.0,
       "price_currency": "CAD"
     },
     {
@@ -1026,6 +1037,28 @@
       "model": "Kona",
       "condition": "new",
       "price": 37098.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Hyundai Kona Essential",
+      "vin": "KM8HA3AB1VU543158",
+      "url": "https://willyml1979-dotcom.github.io/campbell-river-hyundai-mirror/new/f81a018b9d54.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Kona",
+      "condition": "new",
+      "price": 30148.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Hyundai Kona Preferred",
+      "vin": "KM8HB3AB4VU547959",
+      "url": "https://willyml1979-dotcom.github.io/campbell-river-hyundai-mirror/new/62effcc68b46.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Kona",
+      "condition": "new",
+      "price": 32648.0,
       "price_currency": "CAD"
     },
     {
@@ -1080,7 +1113,18 @@
       "make": "Hyundai",
       "model": "Palisade Hybrid",
       "condition": "new",
-      "price": 64248.0,
+      "price": 65248.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Hyundai Palisade Hybrid Ultimate Calligraphy Night",
+      "vin": "KM8RMESA6VU153038",
+      "url": "https://willyml1979-dotcom.github.io/campbell-river-hyundai-mirror/new/71cbe192ce2a.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Palisade Hybrid",
+      "condition": "new",
+      "price": 71498.0,
       "price_currency": "CAD"
     },
     {
@@ -1114,6 +1158,39 @@
       "model": "Santa Fe Hybrid",
       "condition": "new",
       "price": 60148.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Hyundai Santa Fe Hybrid Ultimate Calligraphy",
+      "vin": "KM8P5DG17VU227896",
+      "url": "https://willyml1979-dotcom.github.io/campbell-river-hyundai-mirror/new/4871a7c05878.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Santa Fe Hybrid",
+      "condition": "new",
+      "price": 60148.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Hyundai Santa Fe Hybrid Ultimate Calligraphy",
+      "vin": "KM8P5DG17VU228675",
+      "url": "https://willyml1979-dotcom.github.io/campbell-river-hyundai-mirror/new/39c8fd46b63d.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Santa Fe Hybrid",
+      "condition": "new",
+      "price": 59798.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Hyundai Santa Fe Hybrid Preferred",
+      "vin": "KM8P3DG1XVU230717",
+      "url": "https://willyml1979-dotcom.github.io/campbell-river-hyundai-mirror/new/f3a843f21ed6.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Santa Fe Hybrid",
+      "condition": "new",
+      "price": 52398.0,
       "price_currency": "CAD"
     }
   ]
