@@ -1,6 +1,6 @@
 {
   "dealership": "Campbell River Hyundai",
-  "generated_at": "2026-11-18T00:18:11",
+  "generated_at": "2026-11-18T00:27:29",
   "vehicle_count": 107,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -776,7 +776,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai Tucson ",
+      "name": "2026 Hyundai Tucson Preferred",
       "vin": "KM8JCCDE9TU492992",
       "url": "https://willyml1979-dotcom.github.io/campbell-river-hyundai-mirror/new/3624cbf78df0.html",
       "year": 2026,
