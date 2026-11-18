@@ -1,6 +1,6 @@
 {
   "dealership": "Campbell River Hyundai",
-  "generated_at": "2026-11-18T09:38:43",
+  "generated_at": "2026-11-18T09:45:00",
   "vehicle_count": 107,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -787,7 +787,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai Tucson ",
+      "name": "2026 Hyundai Tucson Preferred",
       "vin": "KM8JCCDEXTU492998",
       "url": "https://willyml1979-dotcom.github.io/campbell-river-hyundai-mirror/new/47dbf6b3a394.html",
       "year": 2026,
@@ -1018,7 +1018,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Hyundai Kona ",
+      "name": "2027 Hyundai Kona Preferred",
       "vin": "KM8HCCAB4VU531239",
       "url": "https://willyml1979-dotcom.github.io/campbell-river-hyundai-mirror/new/318a868ed6c9.html",
       "year": 2027,
@@ -1084,7 +1084,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Hyundai Palisade Hybrid ",
+      "name": "2027 Hyundai Palisade Hybrid Ultimate Calligraphy",
       "vin": "KM8RMESA2VU139931",
       "url": "https://willyml1979-dotcom.github.io/campbell-river-hyundai-mirror/new/d9b6962014fb.html",
       "year": 2027,
@@ -1139,7 +1139,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Hyundai Santa Fe Hybrid ",
+      "name": "2027 Hyundai Santa Fe Hybrid Ultimate Calligraphy",
       "vin": "KM8P5DG19VU223557",
       "url": "https://willyml1979-dotcom.github.io/campbell-river-hyundai-mirror/new/f2be49d6acbd.html",
       "year": 2027,
