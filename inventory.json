@@ -1,6 +1,6 @@
 {
   "dealership": "Campbell River Hyundai",
-  "generated_at": "2026-11-18T00:27:29",
+  "generated_at": "2026-11-18T09:38:43",
   "vehicle_count": 107,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -46,7 +46,7 @@
       "make": "RAM",
       "model": "1500",
       "condition": "used",
-      "price": 24467.0,
+      "price": 22998.0,
       "price_currency": "CAD"
     },
     {
@@ -156,7 +156,7 @@
       "make": "Hyundai",
       "model": "Santa Fe",
       "condition": "used",
-      "price": 16804.0,
+      "price": 16383.0,
       "price_currency": "CAD"
     },
     {
@@ -387,7 +387,7 @@
       "make": "Hyundai",
       "model": "Tucson Hybrid",
       "condition": "used",
-      "price": 40498.0,
+      "price": 40013.0,
       "price_currency": "CAD"
     },
     {
@@ -398,7 +398,7 @@
       "make": "Hyundai",
       "model": "Tucson Plug-In Hybrid",
       "condition": "used",
-      "price": 48998.0,
+      "price": 46627.0,
       "price_currency": "CAD"
     },
     {
