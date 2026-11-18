@@ -1,6 +1,6 @@
 # Campbell River Hyundai
 
- dealership in Campbell River. AI-readable inventory mirror, about 108 vehicles.
+ dealership in Campbell River. AI-readable inventory mirror, about 107 vehicles.
 
 - Official website: https://www.campbellriverhyundai.com/
 - Used vehicles: https://willyml1979-dotcom.github.io/campbell-river-hyundai-mirror/used/
