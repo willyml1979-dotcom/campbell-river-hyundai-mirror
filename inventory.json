@@ -1,6 +1,6 @@
 {
   "dealership": "Campbell River Hyundai",
-  "generated_at": "2026-11-18T09:45:00",
+  "generated_at": "2026-11-18T19:59:25",
   "vehicle_count": 107,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -233,7 +233,7 @@
       "make": "Hyundai",
       "model": "Kona",
       "condition": "used",
-      "price": 17998.0,
+      "price": 16998.0,
       "price_currency": "CAD"
     },
     {
@@ -255,7 +255,7 @@
       "make": "Hyundai",
       "model": "Elantra Hybrid",
       "condition": "used",
-      "price": 27277.0,
+      "price": 26321.0,
       "price_currency": "CAD"
     },
     {
